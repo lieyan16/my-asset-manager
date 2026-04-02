@@ -1,12 +1,16 @@
 # 💰 AssetCost Tracker — 个人资产使用成本统计系统
+项目2025年8月开始开发-----目前处于烂尾状态
+项目当前开源，可拿走进行二次开发，开发完成麻烦发我一份
+email：lieyan16@qq.com
 
+
+##项目截图
 > 记录你拥有的每一件物品，算清它们每天“花”了你多少钱。
+| ![主页](https://free.picui.cn/free/2026/04/02/69ce7ac575dc3.jpg) | ![添加资产](https://free.picui.cn/free/2026/04/02/69ce7ac544bc6.jpg) |
 
-![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue?logo=flutter)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Web%20%7C%20iOS%20(planned)-lightgrey)
-![Database](https://img.shields.io/badge/Database-SQLite-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-green)
-
+| 设置页 | 统计图表 |
+|:---:|:---:|
+| ![设置页](https://free.picui.cn/free/2026/04/02/69ce7ac58d633.jpg) | ![图表](https://free.picui.cn/free/2026/04/02/69ce7ac55e632.png) |
 ---
 
 ## 📌 项目背景
@@ -49,7 +53,7 @@
 | 状态管理 | Provider / GetX | 按需选择 |
 | 局域网同步 | 自定义 HTTP API + 文件传输 | 设计文档已完成 |
 
-> 💡 **特别说明**：整个系统 80% 以上的代码由 **ChatGPT + DeepSeek** 辅助生成，是 AI 辅助开发的实践项目。
+  > 💡 **特别说明**：整个系统 80% 以上的代码由 **ChatGPT + DeepSeek** 辅助生成，是 AI 辅助开发的实践项目。
 
 ---
 

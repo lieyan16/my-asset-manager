@@ -1,14 +1,23 @@
 # 💰 AssetCost Tracker — 个人资产使用成本统计系统
-项目2025年8月开始开发-----目前处于烂尾状态
-项目当前开源，可拿走进行二次开发，开发完成麻烦发我一份
-email：lieyan16@qq.com
 
+项目 2025 年 8 月开始开发 ----- 目前处于烂尾状态  
+项目当前开源，可拿走进行二次开发，开发完成麻烦发我一份  
+**email：lieyan16@qq.com**
 
-##项目截图
+---
+
+## 📸 项目截图
+
 > 记录你拥有的每一件物品，算清它们每天“花”了你多少钱。
+
+<div align="center">
+
 | 设置页 | 图表 | 主页 | 添加资产 |
 |:---:|:---:|:---:|:---:|
-| <img src="https://free.picui.cn/free/2026/04/02/69ce7ac58d633.jpg" width="150"> | <img src="https://free.picui.cn/free/2026/04/02/69ce7ac55e632.png" width="150"> | <img src="https://free.picui.cn/free/2026/04/02/69ce7ac575dc3.jpg" width="150"> | <img src="https://free.picui.cn/free/2026/04/02/69ce7ac544bc6.jpg" width="150"> |
+| <img src="https://free.picui.cn/free/2026/04/02/69ce7ac58d633.jpg" width="180"> | <img src="https://free.picui.cn/free/2026/04/02/69ce7ac55e632.png" width="180"> | <img src="https://free.picui.cn/free/2026/04/02/69ce7ac575dc3.jpg" width="180"> | <img src="https://free.picui.cn/free/2026/04/02/69ce7ac544bc6.jpg" width="180"> |
+
+</div>
+
 ---
 
 ## 📌 项目背景
@@ -51,16 +60,23 @@ email：lieyan16@qq.com
 | 状态管理 | Provider / GetX | 按需选择 |
 | 局域网同步 | 自定义 HTTP API + 文件传输 | 设计文档已完成 |
 
-  > 💡 **特别说明**：整个系统 80% 以上的代码由 **ChatGPT + DeepSeek** 辅助生成，是 AI 辅助开发的实践项目。
+> 💡 **特别说明**：整个系统 80% 以上的代码由 **ChatGPT + DeepSeek** 辅助生成，是 AI 辅助开发的实践项目。
 
 ---
 
-## 🖼️ 界面预览（规划中）
+## 📋 后续开发建议
 
-> 待补充截图 / GIF 演示
+- [ ] 完成资产表单与 SQLite 持久化
+- [ ] 实现自定义分类/位置/Tag 管理
+- [ ] 深色/浅色主题持久化
+- [ ] **局域网自动备份与同步**（核心难点）
+- [ ] 数据导入/导出（JSON / SQLite 文件）
 
-- 主页：总资产看板 + 6 项核心指标卡片  
-- 添加资产：表单 + 分类/位置/Tag 联动  
-- 设置页：自定义分类/位置管理、主题切换、数据备份入口
+---
 
----# -
+## 🤝 二次开发说明
+
+本项目采用 **CC BY-NC-SA 4.0** 开源协议，欢迎使用、修改。  
+如果您完成了二次开发，希望能发我一份学习一下：**lieyan16@qq.com**
+
+感谢支持～
